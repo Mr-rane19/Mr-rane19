@@ -50,8 +50,11 @@ I love turning raw data into meaningful insights and dashboards that help in dec
 ## 📫 Connect With Me
 
 📧 Email: [ranesoham1906@gmail.com](mailto:ranesoham1906@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/soham-rane-967754319
-📱 Contact: +91 7506360091
+<p>
+<a href="https://linkedin.com/in/soham-rane-967754319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-rane-967754319" height="30" width="40" /></a>
+
+<a href="https://instagram.com/the_soham_19_06_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_soham_19_06_" height="30" width="40" /></a>
+</p>
 
 ---
 
