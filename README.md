@@ -9,8 +9,7 @@
 * 🎓 Final Year BSc IT Student
 * 📊 Passionate about Data Analysis, Business Intelligence & Analytics
 * 💡 Skilled in Power BI, Excel, SQL & Python
-* 🏒 Recently selected as a Sports Analyst (Game Data Analysis)
-* 🎯 Career Goal: Work in Data Analytics / FinTech / MNC
+
 
 I love turning raw data into meaningful insights and dashboards that help in decision-making.
 
