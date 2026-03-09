@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soham Rane
 
-🎓 TYBSc IT Student | 📊 Aspiring Data Analyst | 🔐 Interested in Cybersecurity & FinTech
+🎓 TYBSc IT Student | 📊 Aspiring Data Analyst 
 
 ---
 
